@@ -1,8 +1,8 @@
 # snakeGame
 a 2D java snake game
-using Java Swing – JPanel, JFrame
-Implemented snake behaviors such as moving and growing
-Randomized apple spawns, added score tracker and win condition
+using Java Swing – JPanel, JFrame;
+Implemented snake behaviors such as moving and growing;
+Randomized apple spawns, added score tracker and win condition.
 
 ![111](https://user-images.githubusercontent.com/95709315/200696408-6f9303dc-5e69-4b6d-a248-cca6fbe2a341.jpg)
 
